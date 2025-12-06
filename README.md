@@ -7,17 +7,7 @@ Personal Portfolio | Data Analyst specializing in Python, SQL &amp; Power BI | S
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-> A modern, responsive portfolio showcasing my journey as a Data Analyst specializing in predictive analytics, business intelligence, and data visualization.
-
-## 🚀 Live Demo
-
-**[View Portfolio →](https://itsmeprabha75.github.io/portfolio)**
-
-## 📸 Preview
-
-![Portfolio Preview](https://via.placeholder.com/800x400/667eea/ffffff?text=Portfolio+Preview)
-
-*Professional portfolio featuring interactive project showcases and technical skills*
+> A modern, responsive portfolio showcasing my journey as a Data Analyst specializing in predictive analytics, business intelligence, and data visualizatio
 
 ---
 
@@ -85,30 +75,6 @@ Presidency University, Bangalore | CGPA: 7.61/10 | 2021 - 2025
 
 ---
 
-## 🚀 Quick Start
-
-### View Online
-Simply visit the live portfolio: [https://itsmeprabha75.github.io/portfolio](https://itsmeprabha75.github.io/portfolio)
-
-### Run Locally
-
-```bash
-# Clone the repository
-git clone https://github.com/itsmeprabha75/portfolio.git
-
-# Navigate to directory
-cd portfolio
-
-# Open in browser
-open index.html
-# OR
-start index.html  # Windows
-```
-
-No build process or dependencies required! 🎉
-
----
-
 ## 📊 Portfolio Stats
 
 ```
@@ -147,21 +113,6 @@ I'm actively seeking opportunities to contribute my analytical skills to data-dr
 
 ---
 
-## 🤝 Contributing
-
-Found a bug or have suggestions? Feel free to:
-- Open an issue
-- Submit a pull request
-- Reach out directly
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 ## 🙏 Acknowledgments
 
 - Design inspiration from Notion's clean interface
@@ -172,7 +123,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 
 ### ⭐ Star this repository if you found it helpful!
-
-**Built with 💙 by Aravindteja Bastipadu**
 
 
